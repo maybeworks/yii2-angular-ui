@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class AngularUiRouterAsset extends AssetBundle
 {
-    public $sourcePath = '@common/packages/angular-ui-router/release';
+    public $sourcePath = '@bower/ui-router/release';
 
     public $css = [
     ];
